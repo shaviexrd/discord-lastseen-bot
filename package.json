@@ -1,0 +1,20 @@
+{
+  "name": "discord-last-seen-bot",
+  "version": "0.0.1",
+  "description": "Last Seen",
+  "main": "lastseen.js",
+  "scripts": {
+    "start": "node lastseen.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.6",
+    "moment-timezone": "^0.5.34"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  }
+}

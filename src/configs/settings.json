@@ -1,0 +1,15 @@
+{
+"LogKanallari": {
+    "SonGörülmeLog": ""
+},
+"GenelAyarlar": {
+    "setFooter": "Winnie Project (Last Seen)",
+    "BotSesKanali": "", 
+  	"BotDurum": "Winnie Project (Last Seen)",
+    "GuildID": "",  
+    "Token": "",
+    "prefix": ["."],
+    "MongoUrl": "",
+    "BotOwners": []
+}
+}
